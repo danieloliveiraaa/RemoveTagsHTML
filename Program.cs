@@ -6,7 +6,7 @@ namespace RemoveTagsHTML
     class Program
     {
         //DANIEL OLIVEIRA
-        //teste
+        //testes
         //recebendo um texto em HTML, removendo suas tags (<div> <a> por exemplo), mantendo o texto original.
 
         static void Main(string[] args)
